@@ -1,2 +1,21 @@
 langchain
 langchain-community
+langchain-core
+langchain-groq
+langchain-google-genai
+faiss-cpu
+faiss-gpu
+langchain-huggingface
+uvicorn
+fastapi
+python-dotenv
+python-multipart
+PyMuPDF
+numpy
+ipykernal
+streamlit
+structlog
+docx2txt
+pypdf
+-e .
+
